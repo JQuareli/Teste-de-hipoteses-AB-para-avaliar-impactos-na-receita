@@ -10,7 +10,7 @@ Este repositório contém dados coletados, limpados e analisados para avaliar o 
 - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
 - [Conclusões](#conclusões)
 - [Como Utilizar](#como-utilizar-este-repositório)
-- [Como Contribuir](#como-contribuir)
+- [Possíveis Melhorias](#possíveis-melhorias)
 
 ## Metodologia
 
@@ -93,12 +93,6 @@ Nos testes A/B, o grupo B apresentou um volume de vendas maior do que o grupo A.
 
 Para utilizar, basta clonar o repositório e instalar o arquivo requirements.txt em um ambiente Python. Os scripts são bem documentados e podem ser facilmente adaptados para outras análises de dados.
 
-## Como Contribuir
+## Possíveis melhorias
 
-Se você deseja contribuir para este projeto, siga estas etapas:
-
-1. Faça um fork do repositório.
-2. Crie uma branch para sua feature (`git checkout -b feature/nova-feature`).
-3. Commit suas mudanças (`git commit -m 'Adiciona nova feature'`).
-4. Push para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request.
+O projeto ainda pode ser melhorado se aprofundando mais na avaliação da receita entre os grupos e deixando mais claro cada decisão tomada em relação aos testes estatísticos. Além disso, ainda há muito o que detalhar nos gráficos, deixando-os mais claros e explicativos.
